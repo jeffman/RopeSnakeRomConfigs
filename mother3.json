@@ -95,7 +95,7 @@
     "Text.ItemDescriptionsSpecial.OffsetTable": [
       1258732
     ],
-    "Text.ItemDescriptionsSpecial.Text": [
+    "Text.ItemDescriptionsSpecial.Data": [
       1258744
     ],
     "Maps.Info": [
@@ -118,6 +118,7 @@
       "[0xCFE2A8, 0xD04819]",
       "[0xD1EE78, 0xD1EEBF]",
       "[0xD1EEC0, 0xD21643]",
+      "[0xD23494, 0xD26827]",
       "[0xD28F2C, 0xD2904F]",
       "[0xD29050, 0xD29FF3]",
       "[0xD2C704, 0xD2CBF3]",
@@ -133,7 +134,7 @@
     "Nullspace": [
       "[0x1F86008, 0x1F8611F]",
       "[0x1F879E8, 0x1F8C3FF]",
-      "[0x1F87FA8, 0x1F8FFFF]",
+      "[0x1F8F7A8, 0x1F8FFFF]",
       "[0x1F92364, 0x1F925FF]",
       "[0x1FAA12C, 0x1FABFDF]",
       "[0x1FAFA20, 0x1FAFDFF]",
