@@ -147,6 +147,10 @@
     "Text.MusicTitles": [
       552180,
       29946764
+    ],
+    "Battle.Bank": [
+      380808,
+      427940
     ]
   },
   "FreeRanges": {
@@ -160,7 +164,8 @@
       "[0x136A6F4, 0x1433D7B]",
       "[0x1AFD670, 0x1AFD8CF]",
       "[0x1BC23FC, 0x1BCDC3F]",
-      "[0x1C8F390, 0x1C908DF]"
+      "[0x1C8F390, 0x1C908DF]",
+      "[0x1CFFD98, 0x1D0BC97]"
     ],
     "Maps": [
       "[0xD2E1D8, 0xD34F43]"
