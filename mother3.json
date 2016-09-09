@@ -95,6 +95,9 @@
     "Maps.GraphicsInfo": [
       111604
     ],
+    "Maps.Tilesets": [
+      111632
+    ],
     "Text.MainScript": [
       163668,
       163736
@@ -171,7 +174,7 @@
       "[0x1CFFD98, 0x1D0BC97]"
     ],
     "Maps": [
-      "[0xD2E1D8, 0xD3B4DF]"
+      "[0xD2E1D8, 0xF3C343]"
     ],
     "Nullspace": [
       "[0x1F86008, 0x1FDFFFF]"
