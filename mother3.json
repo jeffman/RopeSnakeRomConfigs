@@ -92,6 +92,9 @@
     "Maps.Info": [
       111572
     ],
+    "Maps.GraphicsInfo": [
+      111604
+    ],
     "Text.MainScript": [
       163668,
       163736
@@ -168,7 +171,7 @@
       "[0x1CFFD98, 0x1D0BC97]"
     ],
     "Maps": [
-      "[0xD2E1D8, 0xD34F43]"
+      "[0xD2E1D8, 0xD3B4DF]"
     ],
     "Nullspace": [
       "[0x1F86008, 0x1FDFFFF]"
@@ -178,7 +181,8 @@
     "Data.Psi.Count": 256,
     "Data.Items.Count": 256,
     "Data.Enemies.Count": 256,
-    "Maps.Info.Count": 1000
+    "Maps.Info.Count": 1000,
+    "Maps.GraphicsInfo.Count": 1000
   },
   "CharLookup": {
     "3": ",",
