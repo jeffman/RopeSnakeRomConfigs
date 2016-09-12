@@ -1,5 +1,5 @@
 ﻿{
-  "Version": "en_v10",
+  "Version": "en_v11",
   "References": {
     "Data.Psi": [
       265612,
@@ -1151,13 +1151,13 @@
       "Arguments": 1
     }
   ],
-  "ScriptEncodingParameters": {
+  "ScriptEncoding": {
     "EvenPadAddress": 33210368,
     "EvenPadModulus": 14880,
     "EvenOffset1": -7,
     "EvenOffset2": 3,
-    "OddPadAddress": 1295858,
-    "OddPadModulus": 270,
+    "OddPadAddress": 1295832,
+    "OddPadModulus": 294,
     "OddOffset1": 89,
     "OddOffset2": -8
   },
