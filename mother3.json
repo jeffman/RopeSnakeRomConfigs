@@ -1,5 +1,5 @@
 ﻿{
-  "Version": "en_v11",
+  "Version": "en_v12",
   "References": {
     "Data.Psi": [
       265612,
@@ -1139,16 +1139,6 @@
       "Arguments": 1
     }
   ],
-  "ScriptEncodingParameters": {
-    "EvenPadAddress": 33210368,
-    "EvenPadModulus": 14880,
-    "EvenOffset1": -7,
-    "EvenOffset2": 3,
-    "OddPadAddress": 1295832,
-    "OddPadModulus": 294,
-    "OddOffset1": 89,
-    "OddOffset2": -8
-  },
   "Patches": [
     {
       "Description": "Translation bugfixes",
