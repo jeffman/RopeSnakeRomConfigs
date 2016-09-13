@@ -1138,7 +1138,7 @@
       "Arguments": 1
     }
   ],
-  "ScriptEncoding": {
+  "ScriptEncodingParameters": {
     "EvenPadAddress": 33210368,
     "EvenPadModulus": 14880,
     "EvenOffset1": -7,
