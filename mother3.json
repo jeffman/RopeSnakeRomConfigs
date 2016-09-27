@@ -102,6 +102,21 @@
     "Maps.Info": [
       111572
     ],
+    "Maps.GraphicsInfo": [
+      111604
+    ],
+    "Maps.Tilesets": [
+      111632
+    ],
+    "Maps.Palettes": [
+      111656
+    ],
+    "Maps.Tilemaps": [
+      111680
+    ],
+    "Maps.Bigtiles": [
+      111704
+    ],
     "Text.MainScript": [
       163668,
       163736
@@ -182,7 +197,7 @@
       "[0x1FB0400, 0x1FC26EF]"
     ],
     "Maps": [
-      "[0xD2E1D8, 0xD34F43]"
+      "[0xD2E1D8, 0x111DEB3]"
     ],
     "Nullspace": [
       "[0x1F86008, 0x1F8611F]",
@@ -198,7 +213,8 @@
     "Data.Psi.Count": 256,
     "Data.Items.Count": 256,
     "Data.Enemies.Count": 256,
-    "Maps.Info.Count": 1000
+    "Maps.Info.Count": 1000,
+    "Maps.GraphicsInfo.Count": 1000
   },
   "CharLookup": {
     "0": "",
