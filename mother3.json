@@ -93,6 +93,10 @@
     "Text.EnemyNamesShort": [
       1258696
     ],
+    "Text.EnemyNames.AsmRefs": [
+      1264524,
+      1265832
+    ],
     "Text.ItemDescriptionsSpecial.Offsets": [
       1258732
     ],
